@@ -4,7 +4,6 @@
 <h3 align="center">I am a Junior Frontend Engineer with a background in Fashion Design!</h3>
 
 <p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabimonteiros&show_icons=true&locale=en&layout=compact" alt="gabimonteiros" /></p>
-
 <p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabimonteiros&show_icons=true&locale=en" alt="gabimonteiros" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
