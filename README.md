@@ -26,5 +26,6 @@
 <a href="https://instagram.com/gabimonteiroreau" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
+  ![Snake animation](https://github.com/gabimonteiros/gabimonteiros/blob/output/github-contribution-grid-snake.svg)
 
 
